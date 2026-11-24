@@ -3,7 +3,7 @@
 Élève-ingénieure en 4e année à l'**ESIEE Paris**, spécialité **Data Science & Intelligence Artificielle**.
 En recherche de stage à **Montréal**, du 10 mai au 31 août 2027.
 
-📫 manon.schielin@gmail.com · [LinkedIn](https://www.linkedin.com/in/manon-schielin)
+📫 manon.schielin@gmail.com · [LinkedIn](https://www.linkedin.com/in/manon-schielin-10635139a)
 
 ## Projets
 
